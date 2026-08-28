@@ -36,7 +36,7 @@ This page provides an overview of customer demographics and sales distribution.
 - 🌍 Total Sales by Country
 - 🔍 Product Name Filter
 
-![Customer Demographics](<img width="509" height="261" alt="Customer Demographics" src="https://github.com/user-attachments/assets/0b57804f-bc6c-4c3b-aef3-6aea687dae68" />
+(<img width="509" height="261" alt="Customer Demographics" src="https://github.com/user-attachments/assets/0b57804f-bc6c-4c3b-aef3-6aea687dae68" />
 )
 
 ---
@@ -68,7 +68,7 @@ Customers are categorized into segments such as:
 - Frequency Value by Segment
 - Monetary Value by Segment
 
-![Customer Segmentation](<img width="490" height="278" alt="Customer Segmentation" src="https://github.com/user-attachments/assets/6e2bf629-783e-411c-839c-c7aef735494e" />
+(<img width="490" height="278" alt="Customer Segmentation" src="https://github.com/user-attachments/assets/6e2bf629-783e-411c-839c-c7aef735494e" />
 )
 
 ---
@@ -91,7 +91,7 @@ This page provides detailed customer-level information.
 
 This allows users to explore individual customer data and identify customer behavior patterns.
 
-![Customer Details](<img width="484" height="277" alt="Customer Details" src="https://github.com/user-attachments/assets/ed8ff2e1-5ec7-4fe5-8d40-8f8cb87b2913" />
+(<img width="484" height="277" alt="Customer Details" src="https://github.com/user-attachments/assets/ed8ff2e1-5ec7-4fe5-8d40-8f8cb87b2913" />
 )
 
 ---
