@@ -1,4 +1,4 @@
-# 📊 Customer Sales Analysis Dashboard
+# 📊 Customer Segmentation Using RFM Analysis Dashboard
 
 An interactive **Power BI Customer Sales Analysis Dashboard** built using the AdventureWorks dataset. This project analyzes customer demographics, sales performance, customer details, and customer segmentation using **RFM Analysis**.
 
